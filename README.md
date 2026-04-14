@@ -35,5 +35,17 @@ The implementations are based on synthetic datasets due to limited access to rea
 
 ## 📚 Citation
 
-If you use this repository, please cite the corresponding papers listed above.
+If you use this repository, please cite:
+
+```bibtex
+@inproceedings{torabizadeh2025embedding,
+  title={Embedding-Enhanced Patient Clustering for Customized Medical Report Summarization using LLMs},
+  author={Torabizadeh, Kiarash and Hedjam, Rachid and Allaoui, Mebarka and Abdulrazak, Bessam},
+  booktitle={2025 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE},
+  doi={10.1109/ACDSA65407.2025.11165844}
+}
+
 
