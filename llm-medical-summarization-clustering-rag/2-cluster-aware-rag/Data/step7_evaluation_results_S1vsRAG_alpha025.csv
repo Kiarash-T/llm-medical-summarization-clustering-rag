@@ -1,4 +1,0 @@
-cluster,similarity_tfidf,supported_claim_rate_%,unsupported_claim_rate_%,n_claims_checked,completeness_%,must_mentions,must_mentions_hit,absolute_claim_flags,diagnosis_like_flags,medication_flags
-low_risk,0.20659911015983398,41.66666666666667,58.33333333333333,12,100.0,pct_BP_elevated_or_higher;pct_BMI_overweight,2,0,0,0
-average_risk,0.07851515836450072,33.33333333333333,66.66666666666667,12,100.0,pct_BP_elevated_or_higher;pct_BMI_overweight,2,5,0,0
-high_risk,0.1310861664802448,25.0,75.0,12,100.0,pct_BP_elevated_or_higher;pct_BMI_overweight,2,3,0,0
