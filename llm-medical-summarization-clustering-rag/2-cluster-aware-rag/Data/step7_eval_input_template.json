@@ -1,0 +1,20 @@
+[
+  {
+    "cluster": "low_risk",
+    "reference_s1": "PASTE YOUR TRUE CLUSTER SUMMARY (S1) FOR LOW RISK HERE",
+    "rag_summary": "PASTE YOUR RAG SUMMARY FOR LOW RISK HERE",
+    "evidence_block": "PASTE THE SAME EVIDENCE BLOCK YOU USED TO GENERATE THE RAG SUMMARY HERE (WITH [C], [S1]...)"
+  },
+  {
+    "cluster": "average_risk",
+    "reference_s1": "PASTE YOUR TRUE CLUSTER SUMMARY (S1) FOR AVERAGE RISK HERE",
+    "rag_summary": "PASTE YOUR RAG SUMMARY FOR AVERAGE RISK HERE",
+    "evidence_block": "PASTE THE EVIDENCE BLOCK HERE"
+  },
+  {
+    "cluster": "high_risk",
+    "reference_s1": "PASTE YOUR TRUE CLUSTER SUMMARY (S1) FOR HIGH RISK HERE",
+    "rag_summary": "PASTE YOUR RAG SUMMARY FOR HIGH RISK HERE",
+    "evidence_block": "PASTE THE EVIDENCE BLOCK HERE"
+  }
+]
