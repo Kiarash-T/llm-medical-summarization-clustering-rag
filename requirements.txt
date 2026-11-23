@@ -1,0 +1,13 @@
+# Starting environment for the inspected Paper 2 notebook (not a locked environment).
+# Reproduction of specific historic runs requires their recorded versions.
+numpy
+pandas
+scipy
+scikit-learn
+sentence-transformers
+openai
+openpyxl
+jupyterlab
+ipykernel
+matplotlib
+umap-learn

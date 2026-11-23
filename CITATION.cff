@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use the clustering or RAG parts of this repository, please cite the corresponding paper(s), listed in CITATIONS.bib."
+title: "Cluster-Aware Medical Report Summarization: Clustering and Hybrid Retrieval-Augmented Generation"
+authors:
+  - family-names: Torabizadeh
+    given-names: Kiarash
+  - family-names: Hedjam
+    given-names: Rachid
+  - family-names: Allaoui
+    given-names: Mebarka
+  - family-names: Abdulrazak
+    given-names: Bessam
+repository-code: "https://github.com/Kiarash-T/llm-medical-summarization-clustering-rag"
+preferred-citation:
+  type: conference-paper
+  title: "Cluster-Aware Retrieval-Augmented Generation with Hybrid Retrieval for Faithful Medical Report Summarization"
+  authors:
+    - family-names: Torabizadeh
+      given-names: Kiarash
+    - family-names: Hedjam
+      given-names: Rachid
+    - family-names: Allaoui
+      given-names: Mebarka
+    - family-names: Abdulrazak
+      given-names: Bessam
+  year: 2026
+  conference:
+    name: "39th Canadian Conference on Artificial Intelligence"
+  collection-title: "Proceedings of Machine Learning Research"
+  volume: 318
+  start: 1162
+  end: 1168
+  url: "https://proceedings.mlr.press/v318/torabizadeh26a.html"
